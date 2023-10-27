@@ -3,10 +3,4 @@ if SHIELD_SCOTTONUM
 config ZMK_KEYBOARD_NAME
     default "Opus"
 
-config CONFIG_EC11
-    default "y"
-
-config CONFIG_EC11_TRIGGER_GLOBAL_THREAD
-    default "y"
-
 endif
