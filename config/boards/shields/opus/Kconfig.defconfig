@@ -1,4 +1,4 @@
-if SHIELD_SCOTTONUM
+if SHIELD_OPUS
 
 config ZMK_KEYBOARD_NAME
     default "Opus"
