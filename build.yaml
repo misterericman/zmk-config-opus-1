@@ -13,5 +13,5 @@
 #
 ---
 include:
-    - board: nice_nano_v2_zmk_usb
+    - board: nice_nano
       shield: opus
